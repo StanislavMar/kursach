@@ -13,7 +13,7 @@ namespace kursach
         public List<Particle> particles = new List<Particle>();
 
         Random rand = new Random();
-        public int zxc;
+        public int zx;
         public int MousePositionX = 0;
         public int MousePositionY = 0;
         public float GravitationX = 0;
